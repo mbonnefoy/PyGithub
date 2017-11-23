@@ -11,6 +11,14 @@ This library enables you to manage [GitHub] resources such as repositories, user
 [GitHub API v3]: https://developer.github.com/v3
 [GitHub]: https://github.com
 
+## Installation
+
+This package is available from the Python Package Index and can be installed with the following command
+
+```python
+pip install PyGithub
+```
+
 ## Simple Demo
 
 ```python
